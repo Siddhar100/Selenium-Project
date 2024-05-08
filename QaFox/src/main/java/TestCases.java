@@ -92,7 +92,7 @@ public class TestCases {
 	}
 	@AfterTest
 	public void destroy() {
-		driver.quit();
+		//driver.quit();
 	}
 	
 }

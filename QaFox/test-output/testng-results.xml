@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-08T12:53:27 IST" name="Default suite" finished-at="2024-05-08T12:54:31 IST" duration-ms="63656">
+    <groups>
+    </groups>
+    <test started-at="2024-05-08T12:53:27 IST" name="Default test" finished-at="2024-05-08T12:54:31 IST" duration-ms="63656">
+      <class name="TestCases">
+        <test-method is-config="true" signature="init()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:53:27 IST" name="init" finished-at="2024-05-08T12:53:34 IST" duration-ms="6419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testCase1()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:53:34 IST" name="testCase1" finished-at="2024-05-08T12:53:38 IST" duration-ms="4085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method signature="testCase2()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:53:38 IST" name="testCase2" finished-at="2024-05-08T12:53:45 IST" duration-ms="6936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method signature="testCase3()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:53:45 IST" name="testCase3" finished-at="2024-05-08T12:54:03 IST" duration-ms="17906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method signature="testCase4()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:54:03 IST" name="testCase4" finished-at="2024-05-08T12:54:07 IST" duration-ms="4229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase4 -->
+        <test-method signature="testCase5()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:54:07 IST" name="testCase5" finished-at="2024-05-08T12:54:16 IST" duration-ms="8843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+        <test-method signature="testCase6()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:54:16 IST" name="testCase6" finished-at="2024-05-08T12:54:20 IST" duration-ms="4111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase6 -->
+        <test-method signature="testCase7()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:54:20 IST" name="testCase7" finished-at="2024-05-08T12:54:26 IST" duration-ms="6257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+        <test-method signature="testCase8()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:54:26 IST" name="testCase8" finished-at="2024-05-08T12:54:30 IST" duration-ms="4144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase8 -->
+        <test-method signature="testCase9()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:54:30 IST" name="testCase9" finished-at="2024-05-08T12:54:31 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase9 -->
+        <test-method is-config="true" signature="destroy()[pri:0, instance:TestCases@49e53c76]" started-at="2024-05-08T12:54:31 IST" name="destroy" finished-at="2024-05-08T12:54:31 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -194,3 +194,4 @@ mvn test
 ```
 
 This will execute all the test cases defined in the `TestCases` class.
+## Happy Testing with Selenium! 🚀
